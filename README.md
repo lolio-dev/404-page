@@ -1,17 +1,72 @@
-# html/sass starterpack
+<!-- Please update value in the {}  -->
 
-### Un starter pack pour créer et mettre en place des projets rapide en sass et html
+<h1 align="center">404 page</h1>
 
-installer les dépendances: 
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://404-page1.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/lolio-dev/404-page">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Contact](#contact)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://raw.githubusercontent.com/lolio-dev/404-page/main/screenshot.png)
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [Scss](https://sass-lang.com/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+## How To Use
+
+<!-- Example: -->
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/lolio-dev/404-page
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run start
 ```
-npm install
-```
-lancer le serveur:
-```
-npm run start
-```
 
-Les fichiers sass/scss sont dans le dossier `src/styles`, il doivent être importé dans le fichier `src/styles.scss`
+## Contact
 
-Pareil pour le javascript, ils doivent être créer dans le dossier `src/javascript` et importer dans le fichier `app.js`
-
+- GitHub [@lolio-dev](https://github.com/lolio-dev)
